@@ -3,9 +3,9 @@
 #### Technical Skills: SQL, Power BI, Excel, Databricks, Azure, Python (Basic)
 
 ## Education
-- Level 4 Data Analyst Apprenticeship | StoneX Group Inc. (_June 2025_)
-- B.A. (Hons) Business Management | Coventry University (_2021_)
-- Software Development Skills Bootcamp | Just IT (_2022_)
+- Level 4 Data Analyst Apprenticeship | AQA 
+- B.A. (Hons) Business Management | Coventry University 
+- Software Development Skills Bootcamp | Just IT 
 
 ## Work Experience
 **Data Engineer Apprentice @ StoneX Group Inc. (_June 2023 - June 2025_)**
