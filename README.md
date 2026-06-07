@@ -3,7 +3,7 @@
 #### Technical Skills: SQL, Power BI, Excel, Databricks, Azure, Python (Basic)
 
 ## Education
-- Level 4 Data Analyst Apprenticeship | AQA 
+- Level 4 Data Analyst Apprenticeship | BCS 
 - B.A. (Hons) Business Management | Coventry University 
 - Software Development Skills Bootcamp | Just IT 
 
